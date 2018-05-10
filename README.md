@@ -19,3 +19,8 @@ https://github.com/lastaflute/lastaflute-example-maihama
 + Laspock
 
 
+手順
+-----------------------------
+1. pom.xml を削除する。
+2. このプロジェクトのファイルを #change_it_first で検索して、対象プロジェクト用に書き換える。
+3. プロジェクトルートに settings.gradle, base に gradle.properties, build.gradle を配置
