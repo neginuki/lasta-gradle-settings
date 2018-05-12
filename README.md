@@ -1,6 +1,6 @@
 lata-gradle-settings
 ========================
-[LastaFlute](http://dbflute.seasar.org/ja/lastaflute/ "LastaFlute") プロジェクトを gradle プロジェクトに変換するための gradle ファイルを提供します。  
+[LastaFlute](http://dbflute.seasar.org/ja/lastaflute/ "LastaFlute") プロジェクトを gradle プロジェクトに変換するための gradle ファイルを提供します。      
 (マルチプロジェクトの hangar を変換する設定を公開しています。その他はよしなに微調整を)
 
 
