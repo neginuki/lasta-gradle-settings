@@ -1,7 +1,7 @@
 lata-gradle-settings
 ========================
 
-LastaFlute で生成したプロジェクトを gradle プロジェクトに変換する。
+LastaFlute で生成したプロジェクトを gradle プロジェクトに変換するための、gradle ファイルを提供していします。
 
 目的
 ---------------
