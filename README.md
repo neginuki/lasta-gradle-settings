@@ -21,6 +21,7 @@ https://github.com/lastaflute/lastaflute-example-maihama
 
 手順
 -----------------------------
-1. pom.xml を削除する。
-2. このプロジェクトのファイルを #change_it_first で検索して、対象プロジェクト用に書き換える。
+0. hangar プロジェクトを LastaFlute 公式の方法で作成。
+1. 全ての pom.xml を削除する。
+2. このプロジェクトのファイルを #change_it_first で検索して、0で生成したプロジェクト用に書き換える。
 3. プロジェクトルートに settings.gradle, base に gradle.properties, build.gradle を配置
