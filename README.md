@@ -1,13 +1,7 @@
 lata-gradle-settings
 ========================
-
-LastaFlute で生成したプロジェクトを gradle プロジェクトに変換するための、gradle ファイルを提供していします。
-
-目的
----------------
-
-LastaFlute で作成した、プロジェクトを gradle プロジェクトに変換する。  
-ここでは、マルチプロジェクトの hangar を変換する設定を公開しています。   
+LastaFlute で作成した、プロジェクトを gradle プロジェクトに変換するための gradle ファイルを提供します。  
+(マルチプロジェクトの hangar を変換する設定を公開しています。その他はよしなに微調整を)
 https://github.com/lastaflute/lastaflute-example-maihama
 
 
